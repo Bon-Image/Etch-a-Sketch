@@ -1,0 +1,33 @@
+
+
+.r {
+    display: flex;
+    flex-direction: row;
+    padding: 0px;
+    gap: 0px;
+}
+
+
+.s {
+    display: flex;
+    border: 1px solid red;
+    border-right: 0px;
+    border-bottom: 0px;
+    justify-content: space-between;
+    height: 100px;
+    width: 100px;
+}
+
+#container {
+    display: flex;
+    flex-direction: column;
+    gap: 0px;
+    border-bottom: 1px solid red;
+    border-right: 1px solid red;
+    width: min-content;
+
+}
+
+.s:hover{
+    background-color: yellow;
+}
