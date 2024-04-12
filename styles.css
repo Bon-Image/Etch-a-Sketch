@@ -14,8 +14,8 @@
     border-right: 0px;
     border-bottom: 0px;
     justify-content: space-between;
-    height: 100px;
-    width: 100px;
+    height: 10px;
+    width: 10px;
 }
 
 #container {
@@ -28,6 +28,6 @@
 
 }
 
-.s:hover{
-    background-color: yellow;
+.g {
+    background-color: green;
 }
