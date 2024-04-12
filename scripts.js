@@ -17,7 +17,6 @@ const changeColor = function (event) {
     }
 
 }
-
 container.addEventListener("mouseout", changeColor)
 
 
